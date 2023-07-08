@@ -1,0 +1,5 @@
+<launch>
+
+ <node pkg="haptic_control" type="sigma_vel_cmd" name="sigma_cmd_vel" output="screen"/>
+
+</launch>

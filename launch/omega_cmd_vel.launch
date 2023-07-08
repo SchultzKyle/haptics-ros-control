@@ -1,0 +1,5 @@
+<launch>
+
+ <node pkg="haptic_control" type="omega_vel_cmd" name="omega_cmd_vel" output="screen"/>
+
+</launch>
